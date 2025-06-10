@@ -1,4 +1,4 @@
-## Bài Thi Giữa Kỳ Môn Thiết Kế Web Nâng Cao
+## Bài Tập Lớn Giữa Kỳ Môn Thiết Kế Web Nâng Cao
 
 # Phần Mềm Quản Lý Và Thưởng Thức Nhạc
 
