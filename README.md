@@ -14,3 +14,4 @@ Phần mềm Quản Lý Nhạc là một ứng dụng web giúp quản lý danh 
 - Xóa bài hát
 - Phát nhạc với giao diện chuyên nghiệp
 - Hiển thị danh sách bài hát
+## UML
