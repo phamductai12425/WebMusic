@@ -15,3 +15,24 @@ Phần mềm Quản Lý Nhạc là một ứng dụng web giúp quản lý danh 
 - Phát nhạc với giao diện chuyên nghiệp
 - Hiển thị danh sách bài hát
 ## UML
+### 1.Sơ đồ thuật toán
+![Sơ đồ thuật toán](public/images/sodothuatoan.jpg)
+### 2.Sơ đồ cấu trúc
+![Sơ đồ cấu trúc](public/images/sodocautruc.jpg)
+### 3. Ảnh chụp màn hình chức năng chính
+#### 3.1.Bắt đầu
+![home](public/images/home.jpg)
+#### 3.2.Đăng nhập
+![Đăng nhập](public/images/dangnhap.jpg)
+#### 3.3.Đăng ký
+![Đăng ký](public/images/dangki.jpg)
+#### 3.4.Quên mật khẩu 
+![Quên mật khẩu](public/images/quenmk.jpg)
+#### 3.5.Giao diện quản lý nhạc sau khi đăng nhập
+!Giao diện](public/images/giaodien.jpg)
+#### 3.6.Thêm nhạc vào danh sách
+![Thêm nhạc](public/images/thêm.jpg)
+#### 3.7.Sửa thông tin bài hát
+![Sửa nhạc](public/images/sua.jpg)
+#### 3.8.Xóa bài hát
+![xóa nhạc](public/images/xoa.jpg)
