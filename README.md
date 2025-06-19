@@ -3,10 +3,10 @@
 # Phần Mềm Quản Lý Và Thưởng Thức Nhạc
 
 ## Giới thiệu
-Phần mềm Quản Lý Nhạc là một ứng dụng web giúp quản lý danh sách bài hát một cách hiệu quả, bao gồm các chức năng như thêm, xóa, cập nhật và phát nhạc. Dự án hỗ trợ hiển thị danh sách bài hát, phát nhạc với giao diện chuyên nghiệp giống SoundCloud, và cho phép điều chỉnh volume. 
+Phần mềm Quản Lý Nhạc là một ứng dụng web giúp quản lý danh sách bài hát một cách hiệu quả, bao gồm các chức năng như thêm, xóa, cập nhật và phát nhạc. Dự án hỗ trợ hiển thị danh sách bài hát, phát nhạc với giao diện cơ bản và cho phép điều chỉnh volume. 
 
 ## Thành viên:
-- Họ tên sinh viên: Phạm Đức Tài - Mã SV: 23010379
+- Họ tên sinh viên: Phạm Đức Tài - Mã Sinh Viên: 23010379
 
 ## Chức năng chính
 - Thêm bài hát mới
@@ -51,5 +51,7 @@ Phần mềm Quản Lý Nhạc là một ứng dụng web giúp quản lý danh 
 ![xóa nhạc](public/images/hhhhhhhhh.jpg)
 #### 4.7.SongController.php
 ![xóa nhạc](public/images/songccl.jpg)
-
+### Link GitHub Repo
+https://github.com/phamductai12425/WebMusic.git
+### Link chạy web (Public)
     
