@@ -36,3 +36,12 @@ Phần mềm Quản Lý Nhạc là một ứng dụng web giúp quản lý danh 
 ![Sửa nhạc](public/images/sua.jpg)
 #### 3.8.Xóa bài hát
 ![xóa nhạc](public/images/xoa.jpg)
+### 4.Code minh họa phần chính
+#### 4.1.Song.php
+#### 4.2.User.php
+#### 4.3.Artist.php
+#### 4.4.Web.php
+#### 4.5.index.php
+#### 4.6.2025_06_01_151609_create_songs_table.php
+
+    
